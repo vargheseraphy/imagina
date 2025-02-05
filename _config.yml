@@ -1,14 +1,13 @@
-title: Raphy Varghese
+title: "Raphy Varghese"
 author:
-  name: Raphy Varghese
-  email: raphy202@gmail.com
+  name: "Raphy Varghese"
+  email: "raphy202@gmail.com"
 
-# The `>` after `description:` means to ignore line-breaks until next key.
+# The `>` after `description:` means to ignore line-breaks until the next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-
-I am a passionate and forward-thinking professional with a keen interest in technology, innovation, 
-and problem-solving. With a strong drive for learning and growth.
+  I am a passionate and forward-thinking professional with a keen interest in technology, innovation, 
+  and problem-solving. With a strong drive for learning and growth.
 
 # Build settings
 
@@ -70,5 +69,3 @@ minima:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
-
