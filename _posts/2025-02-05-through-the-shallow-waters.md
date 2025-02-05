@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Through the Shallow Waters
+title: "Through the Shallow Waters"
 categories: journal
 author: Raphy Varghese
 meta: "A walk"
