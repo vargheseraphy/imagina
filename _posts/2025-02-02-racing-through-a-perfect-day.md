@@ -1,10 +1,9 @@
 ---
 layout: post
 title: "Racing Through a Perfect Day"
-categories: misc
+categories: Dream
+author: Raphy Varghese
 ---
-
-## Racing Through a Perfect Day
 
 Today is one of those perfect days—one that feels like it was crafted just for us. The road stretches endlessly ahead, a flawless ribbon of asphalt cutting through the vast green meadows. Not a single tree in sight, just rolling grasslands as far as the eye can see, swaying gently in the breeze.
 
