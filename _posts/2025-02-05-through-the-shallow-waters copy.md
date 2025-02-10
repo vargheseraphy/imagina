@@ -6,6 +6,8 @@ author: Raphy Varghese
 meta: "A walk"
 ---
 
+![Deep shade green water](assets/images/posts/FEB05-01.png)
+
 The water is a deep shade of green, rippling gently around my ankles as I take slow, deliberate steps. The breeze brushes against my face, cool and refreshing, carrying the scent of the lake. In my hand, the fishing rod sways with each movement, its tip dipping toward the water’s surface.
 
 Beneath me, schools of fish dart between the sunlight and shadow, their silver scales flashing like scattered stars. The world is quiet, except for the soft lapping of water and the occasional distant call of a bird. I pause, casting my line, watching it ripple outward into the vast green.
