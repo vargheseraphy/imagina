@@ -12,18 +12,20 @@
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
-  
+
     gtag('config', 'UA-702761-1');
   </script>
 
   <link href='//fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,700,800' rel='stylesheet' type='text/css'>
   <link href='//fonts.googleapis.com/css?family=Bangers' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  <link rel="stylesheet" href="/assets/stylesheets/application.css">
-
+  
+  <!-- Fix CSS and JavaScript paths -->
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/stylesheets/application.css">
+  
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
   <![endif]-->
 
-  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link rel="shortcut icon" href="{{ site.baseurl }}/assets/images/favicon.ico">
 </head>
