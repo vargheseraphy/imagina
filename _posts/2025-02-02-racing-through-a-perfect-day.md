@@ -5,6 +5,8 @@ categories: Dream
 author: Raphy Varghese
 ---
 
+![Deep shade green water](assets/images/posts/FEB02-01.jpg)
+
 Today is one of those perfect days—one that feels like it was crafted just for us. The road stretches endlessly ahead, a flawless ribbon of asphalt cutting through the vast green meadows. Not a single tree in sight, just rolling grasslands as far as the eye can see, swaying gently in the breeze.
 
 The black Audi purrs beneath my hands, the soft hum of the engine syncing with my heartbeat. With a single touch, the roof slides open, letting the sky spill into our world. The wind rushes in, warm and exhilarating, hitting our faces as we soar forward at 140 miles per hour. My wife sits beside me, her laughter blending with the sound of the rushing air, while my kids in the back squeal with joy, their little hands reaching out as if trying to grasp the wind itself.
