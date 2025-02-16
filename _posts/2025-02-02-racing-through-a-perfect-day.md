@@ -5,7 +5,7 @@ categories: Dream
 author: Raphy Varghese
 ---
 
-![Deep shade green water](/assets/images/posts/FEB02-01.jpg)
+![Deep shade green water](/imagina/assets/images/posts/FEB02-01.jpg)
 
 Today is one of those perfect days—one that feels like it was crafted just for us. The road stretches endlessly ahead, a flawless ribbon of asphalt cutting through the vast green meadows. Not a single tree in sight, just rolling grasslands as far as the eye can see, swaying gently in the breeze.
 
