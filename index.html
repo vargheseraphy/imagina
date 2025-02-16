@@ -8,7 +8,7 @@ layout: master
       <h4 class="post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h4>
       <a href="/archives/"><span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span></a>
       <p>
-        {{ post.content | truncatewords:100 }}
+        {{ post.content | truncatewords:50 }}
       </p>
       <a href="{{ post.url | prepend: site.baseurl }}"><button class="float-left">READ MORE</button></a>
     </div>
